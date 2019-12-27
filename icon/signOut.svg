@@ -1,0 +1,7 @@
+<svg width="17" height="40" xmlns="http://www.w3.org/2000/svg">
+    <g id="Sign-Out-Icon" transform="translate(0,5)">
+        <path d="M8 16L0 16L0 0L0 0L8 0" id="Rectangle" fill="none" stroke="#0073CF" stroke-width="2" />
+        <path d="M0 5.00044e-13L7 5.00044e-13L7 6L0 6L0 5.00044e-13Z" transform="translate(4 5)" id="Rectangle-2" fill="#0073CF" stroke="none" />
+        <path d="M7 0L14 7L0 7L7 0Z" transform="matrix(-4.371139E-08 1 -1 -4.371139E-08 17.5 1)" id="Triangle" fill="#0073CF" stroke="none" />
+      </g>
+</svg>

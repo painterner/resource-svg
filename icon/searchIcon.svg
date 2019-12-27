@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Search-Icon">
+    <path d="M5.35293 10.7059C8.30928 10.7059 10.7059 8.30929 10.7059 5.35294C10.7059 2.39659 8.30928 0 5.35293 0C2.39659 0 0 2.39659 0 5.35294C0 8.30929 2.39659 10.7059 5.35293 10.7059Z" transform="translate(0.5078154 0)" id="Oval" fill="none" stroke="#0073CF" stroke-width="2" />
+    <path d="M0 0L5.7647 0L5.7647 3.29412L0 3.29412L0 0Z" transform="matrix(0.7880108 0.6156615 -0.6156615 0.7880108 10.68387 7.665273)" id="Rectangle" fill="#0073CF" stroke="none" />
+  </g>
+</svg>

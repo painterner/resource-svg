@@ -1,0 +1,10 @@
+
+
+  <svg width="25" height="20" xmlns="http://www.w3.org/2000/svg">
+    <g id="Hamburger-Menu-Icon">
+        <path d="M0 0L25 0L25 4L0 4L0 0Z" id="Rectangle" fill="#003087" stroke="none" />
+        <path d="M0 0L25 0L25 4L0 4L0 0Z" transform="translate(0 8)" id="Rectangle" fill="#003087" stroke="none" />
+        <path d="M0 0L25 0L25 4L0 4L0 0Z" transform="translate(0 16)" id="Rectangle" fill="#003087" stroke="none" />
+      </g>
+    
+   </svg>

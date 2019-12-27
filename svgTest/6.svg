@@ -1,0 +1,24 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_8" d="m505,101.4375" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <ellipse ry="98.5" rx="98" id="svg_1" cy="232.9375" cx="317" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="257.4375" x="333" stroke-width="0" stroke="#000" fill="#000000">Hello</text>
+  <path id="svg_5" d="m121,135.4375c79,-41 30,46 30,45.5625c0,0.4375 -59,17.4375 -13,40.4375l46,22.5625c16,-149.5625 -9,50.4375 -9,50" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path id="svg_9" d="m427,33.4375" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  
+  <path id="svg_16" d="m384,97.4375c2,-66 114,-69 114,-69.4375" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff">
+	<title> no influence ? </title>
+  </path>
+   <!-- https://c.runoob.com/more/svgeditor/ , 通过画图过程中可以推测理论上这个path需要两个点，一个向量(或角度和一个曲率半径)(标记方向）信息,所以
+	猜测这里的d会有类似的信息表达 -->
+ </g>
+</svg>

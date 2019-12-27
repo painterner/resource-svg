@@ -1,0 +1,19 @@
+<svg width="30" height="40" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M15 30C23.2843 30 30 23.2843 30 15C30 6.71573 23.2843 0 15 0C6.71573 0 0 6.71573 0 15C0 23.2843 6.71573 30 15 30Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+
+
+  <g id="Person-Icon">
+    <g id="Oval">
+      <g clip-path="url(#clip_1)">
+        <use xlink:href="#path_1" fill="none" stroke="#585858" stroke-width="4" />
+      </g>
+    </g>
+    <path d="M5 10C7.76142 10 10 7.76142 10 5C10 2.23858 7.76142 0 5 0C2.23858 0 0 2.23858 0 5C0 7.76142 2.23858 10 5 10Z" transform="translate(10 5)" id="Oval" fill="#585858" stroke="none" />
+    <path d="M10 12C15.5228 12 20 7.68627 20 2.36501C20 -2.95626 15.5228 2.36501 10 2.36501C4.47715 2.36501 0 -2.95626 0 2.36501C0 7.68627 4.47715 12 10 12Z" transform="translate(5 14)" id="Oval" fill="#585858" stroke="none" />
+  </g>
+</svg>
